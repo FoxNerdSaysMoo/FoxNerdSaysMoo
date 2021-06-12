@@ -2,7 +2,7 @@ Joined Github **1** years ago.
 
 Since then I have 
 
-- pushed **204** commits, 
+- pushed **206** commits, 
 
 - opened **9** issues, 
 
@@ -10,7 +10,7 @@ Since then I have
 
 - received **7** stars across 
 
-- **9** personal projects 
+- **10** personal projects 
 
 - and contributed to **16** public repositories.
 
