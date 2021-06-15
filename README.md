@@ -6,13 +6,13 @@ Since then I have
 
 - opened **9** issues, 
 
-- submitted **12** pull requests, 
+- submitted **13** pull requests, 
 
 - received **8** stars across 
 
 - **10** personal projects 
 
-- and contributed to **16** public repositories.
+- and contributed to **17** public repositories.
 
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
